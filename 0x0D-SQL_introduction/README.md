@@ -1,1 +1,0 @@
-# :shell: 0x0D - SQL: Introduction :shell
